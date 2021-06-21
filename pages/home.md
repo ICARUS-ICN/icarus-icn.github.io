@@ -2,7 +2,7 @@
 layout: home
 title: ICARUS
 description: Information-Centric sAtellite-netwoRk for vehicUlar communicationS
-#background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/sky.jpg
 permalink: /
 ---
 
