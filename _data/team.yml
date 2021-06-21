@@ -1,0 +1,88 @@
+
+# Project team members listed below will appear on the /team page
+
+- name: Miguel Rodríguez Pérez
+  role: Co-Leader # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/miguel.jpeg # Can be external link
+  description: > # Can be Markdown
+    Associate Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0001-5965-1076
+  email: miguel@det.uvigo.gal
+  github: migrax
+
+- name: Sergio Herrería Alonso
+  role: Co-Leader # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/sha.jpg # Can be external link
+  description: > # Can be Markdown
+    Associate Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0003-3417-5821
+  email: sha@det.uvigo.es
+  github: sherreria
+
+- name: Cándido López García
+  role: Researcher & Adviser # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/candido.jpg # Can be external link
+  description: > # Can be Markdown
+    Full Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0001-5338-6734
+  email: candido@det.uvigo.es
+
+- name: Fernando Pérez Fontán
+  role: Researcher & Adviser # Will appear next to name  
+  description: > # Can be Markdown
+    Full Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-0783-7562
+  email: fpfontan@uvigo.gal
+
+- name: Francisco Poza González
+  role: Researcher # Will appear next to name  
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-7285-1993
+  email: fpoza@uvigo.es
+
+- name: Andrés Suárez González
+  role: Researcher # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/asuarez.jpg
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-8402-9825
+  email: asuarez@det.uvigo.es
+
+- name: Raúl Fernando Rodríguez Rubio
+  role: Researcher # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/rrubio.jpg
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0003-3299-150X
+  email: rrubio@det.uvigo.es
+
+- name: José Carlos López Ardao
+  role: Researcher # Will appear next to name
+  image: https://netlab.det.uvigo.es/img/ardao2.jpg
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-3390-0035
+  email: jardao@det.uvigo.es
+
+- name: Fernando Machado Domínguez
+  role: Researcher # Will appear next to name  
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0003-3510-4574
+  email: fmachado@uvigo.gal
+
+- name: Vicente Pastoriza Santos
+  role: Researcher # Will appear next to name  
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-1728-6194
+  email: vpastoriza@uvigo.gal
+
+- name: María Estela Sousa Vieira
+  role: Researcher # Will appear next to name
+  description: > # Can be Markdown
+    Professor at [Universidade de Vigo](https://www.uvigo.gal/).
+  orcid: 0000-0002-3963-0451
+  email: estela@det.uvigo.es
+

@@ -1,0 +1,79 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: ICARUS
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  The ICARUS project aims to design and develop innovative network solutions
+  for satcom communications in the Ka-band for vehicular fleets on top of an
+  information-centric network substrate.
+#twitter_username: username
+github_username: icarus-icn
+url: "https://icarus.det.uvigo.es"
+
+# Build settings
+markdown: kramdown
+remote_theme: peterdesmet/petridish@1.1
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Madrid
+
+
+# SOCIAL PROFILES
+#email: your.email@example.com           # Social icon in footer
+#twitter_username: peterdesmet           # Social icon in footer
+#github_username: peterdesmet            # Social icon in footer
+
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+#logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
