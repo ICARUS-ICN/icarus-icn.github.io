@@ -29,6 +29,7 @@
 
 - name: Fernando Pérez Fontán
   role: Researcher & Adviser # Will appear next to name  
+  image: assets/img/fontan.jpg
   description: > # Can be Markdown
     Full Professor at [Universidade de Vigo](https://www.uvigo.gal/).
   orcid: 0000-0002-0783-7562
@@ -74,6 +75,7 @@
 
 - name: Vicente Pastoriza Santos
   role: Researcher # Will appear next to name  
+  image: assets/img/vpastoriza.jpg
   description: > # Can be Markdown
     Professor at [Universidade de Vigo](https://www.uvigo.gal/).
   orcid: 0000-0002-1728-6194
