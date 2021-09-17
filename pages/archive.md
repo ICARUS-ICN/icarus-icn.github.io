@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: News
-description: News & publications
-permalink: /news/
+title: Publications
+description: Latest publications
+permalink: /publications/
 ---
