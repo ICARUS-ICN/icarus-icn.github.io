@@ -13,7 +13,8 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This work has received financial support from the [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es) through grant PID2020-113240RB-I00 (partly financed with ERDF funds).
+      Project PID2020-113240RB-I00 financed by MCIN/ AEI/10.13039/501100011033: 
+      ![MCIN/ AEI/10.13039/501100011033](assets/img/logo-mcin-aei.png)
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
