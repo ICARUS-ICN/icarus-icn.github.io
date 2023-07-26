@@ -1,5 +1,5 @@
 ---
-title: Irregular repetition slotted Aloha with multiuser detection: A density evolution analysis
+title: "Irregular repetition slotted Aloha with multiuser detection: A density evolution analysis"
 description: Article published in Computer Networks
 author: [Estela Sousa-Vieira, Manuel Fernández-Veiga, Ana Fernández-Vilas, Rebeca P. Díaz-Redondo]
 categories: [Publication, Journal, MAC, Access Link]
