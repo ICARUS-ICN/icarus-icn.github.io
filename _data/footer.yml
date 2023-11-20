@@ -11,7 +11,6 @@ columns:
     - text: atlanTTic Research Center
       href: https://atlanttic.uvigo.es
       new_window: true
-
   - description: > # E.g. funding acknowledgement. Can be Markdown
       Project PID2020-113240RB-I00 financed by MCIN/ AEI/10.13039/501100011033: 
       ![MCIN/ AEI/10.13039/501100011033](assets/img/logo-mcin-aei.png)

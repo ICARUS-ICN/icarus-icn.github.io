@@ -1,7 +1,9 @@
 ---
 layout: home
 title: ICARUS
-description: Information-Centric sAtellite-netwoRk for vehicUlar communicationS
+description:   The ICARUS project aims to design and develop innovative network solutions
+  for satcom communications in the Ka-band for vehicular fleets on top of an
+  information-centric network substrate.
 background: /assets/img/sky.jpg
 permalink: /
 ---

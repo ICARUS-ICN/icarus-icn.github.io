@@ -19,18 +19,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   The ICARUS project aims to design and develop innovative network solutions
   for satcom communications in the Ka-band for vehicular fleets on top of an
   information-centric network substrate.
-#twitter_username: username
-github_username: icarus-icn
 url: "https://icarus.det.uvigo.es"
+
+social:
+  #twitter_username: username
+  github: icarus-icn
+  email: icarus@det.uvigo.gal
 
 # Build settings
 markdown: kramdown
-remote_theme: peterdesmet/petridish@1.1
+remote_theme: peterdesmet/petridish@3.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Madrid
+font_serif: false
 
 
 # SOCIAL PROFILES
@@ -63,6 +67,7 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
+  - vendor
 
 # FRONTMATTER DEFAULTS
 defaults:
