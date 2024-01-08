@@ -3,7 +3,7 @@
 
 - name: Miguel Rodríguez Pérez
   role: Co-Leader # Will appear next to name
-  image: https://netlab.det.uvigo.es/img/miguel.jpeg # Can be external link
+  image: https://netlab.det.uvigo.es/img/miguel.webp # Can be external link
   description: > # Can be Markdown
     Associate Professor at [Universidade de Vigo](https://www.uvigo.gal/).
   orcid: 0000-0001-5965-1076
